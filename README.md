@@ -1,0 +1,1 @@
+A lightweight, high-performance 15x15 Gomoku (Five in a Row) game engine written entirely in MIPS Assembly. This project demonstrates low-level systems programming, manual memory management, and algorithmic win-checking without the overhead of high-level abstractions.
